@@ -48,6 +48,12 @@
   
 <br /><p>
   
+<h3 align="left"><b>📑 Resume:</h3></b>
+<p align="left">
+<a href='https://drive.google.com/file/d/1DiMQGL_xr38o7WTEErsAENVwTaggIX9Y/view?usp=sharing'><b>Click here to view</a></b><br />
+
+<br>
+
 <h3 align="left"><b>📬 Social Media:</h3></b>
 <p align="left">
 <a href="https://twitter.com/kdoesvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kdoesvc" height="20" width="30" /></a>  Twitter: <a href='https://twitter.com/kdoesvc'><b>@kdoesvc</a></b><br />
