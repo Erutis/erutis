@@ -1,10 +1,12 @@
 <div alighn=top>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferutis&count_bg=%230097E4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
   
 <div align=center>
 
 
+
 <h2>Hi, I'm K Agajanian </h2>
-<h4><i>Data Scientist obsessed with automating dull and dangerous work</i></h4>
+<h4><i>Data Scientist obsessed with sustainability and automation</i></h4>
 
 
 
@@ -14,11 +16,11 @@
 
 <h3><b>About Me:</b></h3>
 
-💰   I've worked in venture capital and startup operations for the past six years. 
+💰   I've worked in venture capital and startup operations for the past six years. Most recently, I worked at an NYU Future Lab AI startup working on computer vision solutions in senior living. 
 
 📈   In every role I've been in, I built tools to capture data and visualize progress to inform smart business decisions. 
 
-🤖   My greatest goal in life is to automate away tasks that people find uninteresting so that they can reach their full creative potentials in any role. 
+🤖   My greatest goal in life is to automate dull and dangerous work so that they can reach their full potentials. 
    
 
 
@@ -39,18 +41,21 @@
 <p align="left"> 
   
 * Python, SQL
-* Pandas, NumPy, Scikit-Learn, Tensorflow
+* Pandas, NumPy, Scikit-Learn, Tensorflow, PySpark
 * PostgreSQL, BigQuery
-* AWS and GCP
+* AWS, GCP
+* Git, GitHub
 * Flask, Streamlit
 * Dask, Spark, Docker
-* Modeling: Linear/Logistic Regression, neural nets, decision trees
+* Modeling: Linear/logistic regression & classification, neural nets, decision trees, time series
   
 <br /><p>
   
-<h3 align="left"><b>📑 Resume:</h3></b>
+<h3 align="left"><b>📑 Resume & Website:</h3></b>
 <p align="left">
-<a href='https://drive.google.com/file/d/1DiMQGL_xr38o7WTEErsAENVwTaggIX9Y/view?usp=sharing'><b>Click here to view</a></b><br />
+<a href='https://drive.google.com/file/d/1DiMQGL_xr38o7WTEErsAENVwTaggIX9Y/view?usp=sharing'><b>Click here to download my resume</a></b><br />
+<a href='https://erutis.github.io'><b>Click here to see my website</a></b><br />
+
 
 <br>
 
@@ -61,4 +66,4 @@
 <a href="https://linkedin.com/in/kagajanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagajanian" height="20" width="30" /></a>  LinkedIn: <a href="https://www.linkedin.com/in/kagajanian"><b>@kagajanian</b></a><br />
 
 <br><br>
-<small>Thanks to [@rowangayleschaefer](https://github.com/rowangayleschaefer) for the template! 
+<small>Thanks to [@rowangayleschaefer](https://github.com/rowangayleschaefer) for the template! </small>
