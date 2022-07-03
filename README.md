@@ -20,7 +20,7 @@
 
 📈   In every role I've been in, I built tools to capture data and visualize progress to inform smart business decisions. 
 
-🤖   My greatest goal in life is to automate dull and dangerous work so that they can reach their full potentials. 
+🤖   My greatest goals in life are to improve the world with automation and sustainability using machine learning and data science.
    
 
 
