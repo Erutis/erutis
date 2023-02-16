@@ -6,7 +6,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferutis&count_bg=%230097E4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 
 <h2>Hi, I'm K Agajanian </h2>
-<h4><i>Data Scientist obsessed with sustainability and automation</i></h4>
+<h4><i>ML enthusiast obsessed with sustainability and automation</i></h4>
 
 
 
@@ -15,12 +15,13 @@
 <p>
 
 <h3><b>About Me:</b></h3>
+🦾   I currently work as a Software Engineer at Vidrovr, an AI startup making video useful and automating soul-crushing work for a variety of industries. 
+  
+💰   Before Vidrovr, I worked in venture capital and startup operations for the past six years. Most recently, I worked at an NYU Future Lab AI startup working on computer vision solutions in senior living. 
 
-💰   I've worked in venture capital and startup operations for the past six years. Most recently, I worked at an NYU Future Lab AI startup working on computer vision solutions in senior living. 
+📈   In every role I've been in, I built tools to capture data and visualize progress to inform decisions and remove unglamorous work from my teams.
 
-📈   In every role I've been in, I built tools to capture data and visualize progress to inform smart business decisions. 
-
-🤖   My greatest goals in life are to improve the world with automation and sustainability using machine learning and data science.
+🤖   My greatest goal in life is to automate dull and dangerous jobs so people can get back to what gives them the most enjoyment.
    
 
 
@@ -44,9 +45,9 @@
 * Pandas, NumPy, Scikit-Learn, Tensorflow, PySpark
 * PostgreSQL, BigQuery
 * AWS, GCP
-* Git, GitHub
+* Git
 * Flask, Streamlit
-* Dask, Spark, Docker
+* Dask, Spark, Docker, Kubernetes
 * Modeling: Linear/logistic regression & classification, neural nets, decision trees, time series
   
 <br /><p>
