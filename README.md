@@ -15,24 +15,29 @@
 <p>
 
 <h3><b>About Me:</b></h3>
-🦾    I currently work as a Software Engineer at Vidrovr, an AI startup making video useful and automating soul-crushing work for a variety of industries. 
-💰    Before Vidrovr, I worked in venture capital and startup operations for six years. Most recently, I worked at an NYU Future Lab AI startup working on computer vision solutions in senior living.
+
+🦾    I currently work as a Software Engineer at [Vidrovr](vidrovr.com), an AI startup making video useful and automating soul-crushing work for a variety of industries.
+
+💰    Before Vidrovr, I worked in venture capital and startup operations for six years. Most recently, I worked at an NYU Future Labs AI startup working on computer vision solutions in senior living.
+
 📈    In every role I've been in, I built tools to capture data and visualize progress to inform decisions and remove unglamorous work from my teams. 
+
+
 🤖    My greatest goal in life is to automate dull and dangerous jobs so people can get back to what gives them the most enjoyment.
    
 <br/>
 
-<h3 align="left"><b>📊 Latest Projects:</h3></b>
+<h3 align="left"><b>📊  Latest Projects:</h3></b>
 <p align="left"> 
 
-* [VC Twitter](https://github.com/Erutis/vc-twitter) - a Natural Language text generator trained on thousands of venture capitalist tweets. Give it a try!
+* [VC Twitter](https://github.com/Erutis/vc-twitter) - a Natural Language text generator trained on thousands of venture capitalist tweets. Give it a try! 
 
 * [Food Insecurity Analysis](https://github.com/Erutis/food-insecurity-analysis) - a group effort to examine food deserts: how they're measured, how they've changed over the last decade, and what issues exist with the measurement itself. 
   
   <br/>
 
   
-<h3 align="left"><b>💻 Languages and Tools:</h3></b>
+<h3 align="left"><b>💻  Languages and Tools:</h3></b>
 <p align="left"> 
   
 * Python, SQL
@@ -46,7 +51,7 @@
   
 <br /><p>
   
-<h3 align="left"><b>📑 Resume & Website:</h3></b>
+<h3 align="left"><b>📑  Resume & Website:</h3></b>
 <p align="left">
 <a href='https://drive.google.com/file/d/1DiMQGL_xr38o7WTEErsAENVwTaggIX9Y/view?usp=sharing'><b>Click here to download my resume</a></b><br />
 <a href='https://erutis.github.io'><b>Click here to see my website</a></b><br />
