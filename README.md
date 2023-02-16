@@ -15,8 +15,8 @@
 <p>
 
 <h3><b>About Me:</b></h3>
-🦾    I currently work as a Software Engineer at Vidrovr, an AI startup making video useful and automating soul-crushing work for a variety of industries. 
-  
+🦾    I currently work as a Software Engineer at Vidrovr, an AI startup making video useful and automating soul-crushing work for a variety of industries.
+   
 💰    Before Vidrovr, I worked in venture capital and startup operations for six years. Most recently, I worked at an NYU Future Lab AI startup working on computer vision solutions in senior living. 
 
 📈    In every role I've been in, I built tools to capture data and visualize progress to inform decisions and remove unglamorous work from my teams.
