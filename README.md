@@ -6,7 +6,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferutis&count_bg=%230097E4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 
 <h2>Hi, I'm K Agajanian </h2>
-<h4><i>ML enthusiast obsessed with sustainability and automation</i></h4>
+<h4><i>ML enthusiast and engineer obsessed with automation</i></h4>
 
 
 
@@ -15,18 +15,14 @@
 <p>
 
 <h3><b>About Me:</b></h3>
-🦾    I currently work as a Software Engineer at Vidrovr, an AI startup making video useful and automating soul-crushing work for a variety of industries. 
+🦾    I currently work as a Software Engineer at Vidrovr, an AI startup making video useful and automating soul-crushing work for a variety of industries. 
   
-  
-💰   Before Vidrovr, I worked in venture capital and startup operations for the past six years. Most recently, I worked at an NYU Future Lab AI startup working on computer vision solutions in senior living. 
+💰    Before Vidrovr, I worked in venture capital and startup operations for six years. Most recently, I worked at an NYU Future Lab AI startup working on computer vision solutions in senior living. 
 
-📈   In every role I've been in, I built tools to capture data and visualize progress to inform decisions and remove unglamorous work from my teams.
+📈    In every role I've been in, I built tools to capture data and visualize progress to inform decisions and remove unglamorous work from my teams.
 
-🤖   My greatest goal in life is to automate dull and dangerous jobs so people can get back to what gives them the most enjoyment.
+🤖    My greatest goal in life is to automate dull and dangerous jobs so people can get back to what gives them the most enjoyment.
    
-
-
-
 <br/>
 
 <h3 align="left"><b>📊 Latest Projects:</h3></b>
